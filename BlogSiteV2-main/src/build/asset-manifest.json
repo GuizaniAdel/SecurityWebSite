@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8d8b35f3.chunk.css",
+    "main.js": "/static/js/main.9e37666b.chunk.js",
+    "main.js.map": "/static/js/main.9e37666b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b8b9f84b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b8b9f84b.js.map",
+    "static/css/2.8341206d.chunk.css": "/static/css/2.8341206d.chunk.css",
+    "static/js/2.3df38ba1.chunk.js": "/static/js/2.3df38ba1.chunk.js",
+    "static/js/2.3df38ba1.chunk.js.map": "/static/js/2.3df38ba1.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e98581dfc629c860edb6f11f6d738df6.js": "/precache-manifest.e98581dfc629c860edb6f11f6d738df6.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.8341206d.chunk.css.map": "/static/css/2.8341206d.chunk.css.map",
+    "static/css/main.8d8b35f3.chunk.css.map": "/static/css/main.8d8b35f3.chunk.css.map",
+    "static/js/2.3df38ba1.chunk.js.LICENSE.txt": "/static/js/2.3df38ba1.chunk.js.LICENSE.txt",
+    "static/media/Teaser.mp4": "/static/media/Teaser.04960788.mp4",
+    "static/media/mdb.css": "/static/media/arrow_right.d9ccc77c.svg",
+    "static/media/semantic.min.css": "/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/competition.jpg": "/static/media/competition.5be83719.jpg",
+    "static/media/cryptography.svg": "/static/media/cryptography.6eb0320d.svg",
+    "static/media/style.scss": "/static/media/illustration-section-02.63d0555d.svg",
+    "static/media/drapeau.svg": "/static/media/drapeau.7511ddb3.svg",
+    "static/media/event.jpg": "/static/media/event.6bdd3952.jpg",
+    "static/media/exploitation.svg": "/static/media/exploitation.ff40ca1c.svg",
+    "static/media/forensics.svg": "/static/media/forensics.3fe0dd21.svg",
+    "static/media/logo.png": "/static/media/logo.efd4b338.png",
+    "static/media/reversing.svg": "/static/media/reversing.5319d837.svg",
+    "static/media/web.svg": "/static/media/web.bd2092fc.svg",
+    "static/media/workshop.jpg": "/static/media/workshop.e3c132df.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8b9f84b.js",
+    "static/css/2.8341206d.chunk.css",
+    "static/js/2.3df38ba1.chunk.js",
+    "static/css/main.8d8b35f3.chunk.css",
+    "static/js/main.9e37666b.chunk.js"
+  ]
+}
